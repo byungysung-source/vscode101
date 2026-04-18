@@ -4,7 +4,7 @@ Welcome to the vscode101 project! This repository is designed to help beginners 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/vscode101.git`
+1. Clone the repository: `git clone https://github.com/byungysung-source/vscode101.git`
 2. Open the project in VS Code.
 3. Explore the files and start coding!
 
